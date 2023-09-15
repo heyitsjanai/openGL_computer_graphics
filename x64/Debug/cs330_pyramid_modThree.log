@@ -1,0 +1,12 @@
+﻿  glad.c
+Main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwDestroyWindow referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+C:\Users\justj\Downloads\OpenGL\OpenGL\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\justj\Downloads\OpenGL\OpenGL\GLEW\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\justj\source\repos\cs330_pyramid_modThree\x64\Debug\cs330_pyramid_modThree.exe : fatal error LNK1120: 8 unresolved externals
