@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\glad.c" />
+    <ClCompile Include="..\..\..\..\Downloads\OpenGLSample\OpenGLSample\OpenGLSample\glad.c" />
     <ClCompile Include="EBO.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="shaderClass.cpp" />
